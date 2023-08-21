@@ -1,0 +1,5 @@
+git clone http_link
+git add file_name
+git commit -m 'message'
+git status
+git push orgin main
